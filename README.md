@@ -63,7 +63,7 @@ Configurar la cadena de conexión a SQL Server en el archivo `appsettings.json`,
 
 ### 3. Preparar los datos de prueba
 
-Ejecutar el archivo `script.sql` desde SQL Server Management Studio para cargar los datos de prueba.
+Ejecutar el archivo `datos.sql` desde SQL Server Management Studio para cargar los datos de prueba.
 
 ### 4. Ejecutar el proyecto
 
